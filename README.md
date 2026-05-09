@@ -12,3 +12,13 @@ A professional inventory management system for pharmacies.
 2. Create a database named `pharmacy_db`.
 3. Run the following command in terminal:
    `java -cp ".;mysql-connector-j-9.7.0.jar" app.Main`
+
+### Group Details
+ CMS ID 023-25-0519
+ Name Zain Khan
+
+CMS ID 023-25-0517
+Name Usaid Ur Rehman
+
+Section B (BS AI)
+ 
