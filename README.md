@@ -34,7 +34,7 @@ Click the link below to watch the full project walkthrough and feature demonstra
 
 ### 1. Prerequisites
 * **Java JDK 17** or higher.
-* **MySQL Server** (Workbench or XAMPP).
+* **MySQL Server** (Workbench).
 * **MySQL Connector J** (`mysql-connector-j-9.7.0.jar`).
 
 ### 2. Database Configuration
