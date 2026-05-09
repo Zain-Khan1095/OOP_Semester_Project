@@ -1,6 +1,16 @@
 # Pharmacy Management System 
 **AJava Swing & MySQL Semester Project**
 
+### Group Details
+ CMS ID 023-25-0519 <br>
+ Name Zain Khan <br>
+
+CMS ID 023-25-0517 <br>
+Name Usaid Ur Rehman <br>
+
+Section B (BS AI)
+ 
+
 ---
 ##  Purpose & Scope
 The **Pharmacy Management System** is designed to digitize inventory management for local pharmacies. It bridges the gap between manual record-keeping and complex enterprise software.
@@ -33,12 +43,3 @@ Click the link below to watch the full project walkthrough and feature demonstra
    ```sql
    CREATE DATABASE pharmacy_db;
 
-### Group Details
- CMS ID 023-25-0519 <br>
- Name Zain Khan <br>
-
-CMS ID 023-25-0517 <br>
-Name Usaid Ur Rehman <br>
-
-Section B (BS AI)
- 
