@@ -26,7 +26,7 @@ The **Pharmacy Management System** is designed to digitize inventory management 
 
 ## 📺 Project Demo (Video)
 Click the link below to watch the full project walkthrough and feature demonstration:
-[**Watch Demo on YouTube**](PASTE_YOUR_YOUTUBE_LINK_HERE)
+[**Watch Demo on YouTube**](https://youtu.be/n99cPgJm4Iw)
 
 ---
 
