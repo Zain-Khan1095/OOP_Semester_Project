@@ -43,8 +43,9 @@ Click the link below to watch the full project walkthrough and feature demonstra
    ```sql
    CREATE DATABASE pharmacy_db;
 
-### 2. Database Configuration
-1. Run the following command to compile and run:
+### 2. CMD Commands
+   Run the following command to compile and run:
+1. First Step
    ```
    javac -cp ".;mysql-connector-j-9.7.0.jar" app/*.java db/*.java model/*.java view/*.java
 2. Second Step
