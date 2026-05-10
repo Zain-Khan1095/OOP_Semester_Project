@@ -37,13 +37,7 @@ Click the link below to watch the full project walkthrough and feature demonstra
 * **MySQL Server** (Workbench).
 * **MySQL Connector J** (`mysql-connector-j-9.7.0.jar`).
 
-### 2. Database Configuration
-1. Open MySQL Workbench.
-2. Run the following command to create the schema:
-   ```sql
-   CREATE DATABASE pharmacy_db;
-
-### 3. Database Configuration (Required)
+### 2. Database Configuration (Required)
 The application connects to MySQL using the following credentials:
 - **URL:** `jdbc:mysql://localhost:3306/pharmacy_db`
 - **User:** `root` 
@@ -54,7 +48,7 @@ The application connects to MySQL using the following credentials:
 2. Run the provided `database_setup.sql` script to create the schema and tables.
 3. If your MySQL password is different, please update the `DatabaseHandler.java` file before compiling.
 
-### 4. CMD Commands
+### 3. CMD Commands
    Run the following command to compile and run:
 1. First Step
    ```
