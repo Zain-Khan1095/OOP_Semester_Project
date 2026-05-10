@@ -43,7 +43,18 @@ Click the link below to watch the full project walkthrough and feature demonstra
    ```sql
    CREATE DATABASE pharmacy_db;
 
-### 2. CMD Commands
+### 3. Database Configuration (Required)
+The application connects to MySQL using the following credentials:
+- **URL:** `jdbc:mysql://localhost:3306/pharmacy_db`
+- **User:** `root` 
+- **Password:** `1234567890-=` 
+
+**Setup Steps:**
+1. Open MySQL Workbench.
+2. Run the provided `database_setup.sql` script to create the schema and tables.
+3. If your MySQL password is different, please update the `DatabaseHandler.java` file before compiling.
+
+### 4. CMD Commands
    Run the following command to compile and run:
 1. First Step
    ```
