@@ -54,5 +54,8 @@ The application connects to MySQL using the following credentials:
    ```
    javac -cp ".;mysql-connector-j-9.7.0.jar" app/*.java db/*.java model/*.java view/*.java
 2. Second Step
-```
+   ```
    java -cp ".;mysql-connector-j-9.7.0.jar" app.Main
+### 4. Github link
+```
+   https://github.com/Zain-Khan1095/OOP_Semester_Project
